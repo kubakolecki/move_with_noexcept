@@ -11,7 +11,7 @@ Requirements: C++17
 # How to build:
 
 1. Go to custom directory (USER_DIR) and clone the repository: ``git pull https://github.com/kubakolecki/move_with_noexcept``
-2. Go to USER_DIR/move_with_noexcept: cd move_with_noexcept
+2. Go to USER_DIR/move_with_noexcept: ``cd move_with_noexcept``
 3. Generate and build project: <br/>
-cmake -H. -Bbuild <br/>
-cmake --build build --config Release <br/>
+``cmake -H. -Bbuild`` <br/>
+``cmake --build build --config Release`` <br/>
