@@ -10,7 +10,7 @@ Requirements: C++17
 
 # How to build:
 
-1. Go to custom directory (USER_DIR) and clone the repository: <span style="font-family:Papyrus; font-size:4em;"> git pull https://github.com/kubakolecki/move_with_noexcept </span>
+1. Go to custom directory (USER_DIR) and clone the repository: <span style="font-family:'Bebas Neue'; font-size:4em;"> git pull https://github.com/kubakolecki/move_with_noexcept </span>
 2. Go to USER_DIR/move_with_noexcept: cd move_with_noexcept
 3. Generate and build project: <br/>
 cmake -H. -Bbuild <br/>
